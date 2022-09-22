@@ -1,0 +1,100 @@
+﻿Column1;title;year;people_score;total_reviews;genre;original_language;director;runtime;view_the_collection
+0;Black Panther;2018;79;519;adventure, action, fantasy;English;Ryan Coogler;2h 14m;Marvel Cinematic Universe
+1;Avengers: Endgame;2019;90;538;sci fi, adventure, action, fantasy;English;Anthony Russo, Joe Russo;3h 1m;Marvel Cinematic Universe
+2;Mission: Impossible -- Fallout;2018;88;433;action, mystery and thriller, adventure;English;Christopher McQuarrie;2h 27m;
+3;Mad Max: Fury Road;2015;86;427;adventure, action;English;George Miller;2h;
+4;Spider-Man: Into the Spider-Verse;2018;93;387;action, adventure, fantasy, comedy, kids and family, animation;English;Bob Persichetti, Peter Ramsey, Rodney Rothman;1h 57m;
+5;Wonder Woman;2017;83;463;adventure, fantasy, action;English;Patty Jenkins;2h 21m;DC Extended Universe
+6;Dunkirk;2017;81;458;drama, history, war;English;Christopher Nolan;1h 47m;
+7;Coco;2017;94;347;comedy, music, animation, kids and family, adventure;English;Lee Unkrich;1h 49m;Pixar
+8;Thor: Ragnarok;2017;87;430;comedy, fantasy, sci fi, action, adventure;English;Taika Waititi;2h 10m;Marvel Cinematic Universe
+9;Logan;2017;90;418;adventure, action, fantasy;English;James Mangold;2h 17m;X-Men
+10;Star Wars: The Last Jedi;2017;42;476;action, sci fi, adventure, fantasy;English;Rian Johnson;2h 32m;Star Wars Saga
+11;Star Wars: The Force Awakens;2015;86;440;action, sci fi, adventure, fantasy;English;J.J. Abrams;2h 16m;Star Wars Saga
+12;The Adventures of Robin Hood;1938;89;48;action, adventure;English;Michael Curtiz, William Keighley;1h 42m;
+13;King Kong;1933;86;65;adventure, fantasy;English;Merian C. Cooper, Ernest B. Schoedsack;1h 40m;
+14;Spider-Man: Far From Home;2019;95;448;action, comedy, fantasy, adventure;English;Jon Watts;2h 9m;Marvel Cinematic Universe
+15;Incredibles 2;2018;84;382;comedy, animation, action, kids and family, adventure;English;Brad Bird;1h 58m;Pixar
+16;Zootopia;2016;92;293;kids and family, comedy, adventure, animation;English;Byron Howard, Rich Moore;1h 48m;
+17;War for the Planet of the Apes;2017;84;355;sci fi, adventure, action;English;Matt Reeves;2h 22m;Planet of the Apes
+18;Spider-Man: Homecoming;2017;87;391;adventure, fantasy, action, comedy;English;Jon Watts;2h 13m;Marvel Cinematic Universe
+19;Baby Driver;2017;86;389;mystery and thriller, action;English;Edgar Wright;1h 53m;
+20;Seven Samurai;1954;97;65;action;Japanese;Akira Kurosawa;3h 28m;
+21;Metropolis;1927;92;133;drama, sci fi;;Fritz Lang;2h 3m;
+22;Jaws;1975;90;91;mystery and thriller, adventure, horror;English;Steven Spielberg;2h 4m;
+23;Up;2009;90;298;adventure, kids and family, animation, comedy;English;Pete Docter, Bob Peterson;1h 29m;Pixar
+24;Shazam!;2019;82;409;comedy, adventure, action, fantasy;English;David F. Sandberg;2h 12m;DC Extended Universe
+25;The Dark Knight;2008;94;344;fantasy, action, adventure;English;Christopher Nolan;2h 32m;Batman
+26;The Treasure of the Sierra Madre;1948;93;51;western, adventure, drama;English;John Huston;2h 4m;
+27;Blade Runner 2049;2017;81;439;mystery and thriller, sci fi;English;Denis Villeneuve;2h 44m;Blade Runner
+28;The 39 Steps;1935;86;52;mystery and thriller;English (United Kingdom);Alfred Hitchcock;1h 20m;
+29;Captain America: Civil War;2016;89;419;adventure, fantasy, action;English;Anthony Russo, Joe Russo;2h 26m;Marvel Cinematic Universe
+30;The Jungle Book;2016;86;325;kids and family, action, adventure, fantasy;English;Jon Favreau;1h 45m;
+31;Harry Potter and the Deathly Hallows: Part 2;2011;89;331;fantasy, adventure;English;David Yates;2h 11m;Harry Potter
+32;Skyfall;2012;86;379;mystery and thriller, adventure, action;English;Sam Mendes;2h 23m;James Bond 007
+33;Lawrence of Arabia;1962;93;91;drama, history, adventure, biography;English;David Lean;3h 36m;
+34;Mission: Impossible Rogue Nation;2015;87;325;action, mystery and thriller, adventure;English;Christopher McQuarrie;2h 11m;
+35;Apocalypse Now;1979;94;96;drama, war;English;Francis Ford Coppola;2h 33m;
+36;The Hurt Locker;2008;84;289;action, mystery and thriller, drama, war;English;Kathryn Bigelow;2h 7m;
+37;The LEGO Movie;2014;87;254;kids and family, comedy, adventure, animation;English;Phil Lord, Christopher Miller;1h 35m;
+38;Star Trek;2009;91;354;adventure, action, sci fi, fantasy;English;J.J. Abrams;2h 6m;Star Trek
+39;Moana;2016;89;282;musical, comedy, animation, kids and family, adventure;English;John Musker, Ron Clements;1h 53m;
+40;Avengers: Infinity War;2018;91;478;adventure, fantasy, action, sci fi;English;Anthony Russo, Joe Russo;2h 29m;Marvel Cinematic Universe
+41;Ant-Man and The Wasp;2018;75;433;comedy, adventure, action, fantasy;English;Peyton Reed;1h 58m;Marvel Cinematic Universe
+42;Star Wars;1977;96;132;action, sci fi, adventure, fantasy;English;George Lucas;2h 1m;Star Wars Saga
+43;Isle of Dogs;2018;87;363;comedy, animation, adventure;English;Wes Anderson;1h 41m;
+44;Stagecoach;1939;86;45;western;English;John Ford;1h 36m;
+45;Goldfinger;1964;89;68;action;English;Guy Hamilton;1h 52m;James Bond 007
+46;Guardians of the Galaxy;2014;92;330;comedy, fantasy, sci fi, action, adventure;English;James Gunn;2h 1m;Marvel Cinematic Universe
+47;Kubo and the Two Strings;2016;86;221;fantasy, animation, action, kids and family, adventure;English;Travis Knight;1h 42m;
+48;WALL-E;2008;90;260;sci fi, comedy, adventure, animation, kids and family;English;Andrew Stanton;1h 37m;Pixar
+49;Marvel's the Avengers;2012;91;360;adventure, fantasy, action, sci fi;English;Joss Whedon;2h 23m;Marvel Cinematic Universe
+50;Iron Man;2008;91;280;sci fi, adventure, action, fantasy;English;Jon Favreau;2h 6m;Marvel Cinematic Universe
+51;The Terminator;1984;89;64;mystery and thriller, sci fi, action;English;James Cameron;1h 48m;Terminator
+52;The African Queen;1951;86;45;adventure;English;John Huston;1h 45m;
+53;Rio Bravo;1959;91;43;western;English;Howard Hawks;2h 21m;
+54;Hunt for the Wilderpeople;2016;91;203;comedy, adventure;English (Australia);Taika Waititi;1h 41m;
+55;The French Connection;1971;87;61;crime, drama, mystery and thriller;English;William Friedkin;1h 44m;
+56;The Taking of Pelham One Two Three;1974;88;42;mystery and thriller, crime, action, drama;English;Joseph Sargent;1h 44m;
+57;John Wick: Chapter 3 -- Parabellum;2019;86;349;mystery and thriller, action;English;Chad Stahelski;2h 11m;
+58;Doctor Strange;2016;85;377;adventure, action, fantasy;English;Scott Derrickson;1h 55m;Marvel Cinematic Universe
+59;Aliens;1986;94;76;action, horror, sci fi;English;James Cameron;2h 17m;Alien
+60;The Empire Strikes Back;1980;97;104;action, sci fi, adventure, fantasy;English;Irvin Kershner;2h 4m;Star Wars Saga
+61;Paths of Glory;1957;95;61;drama, war;English;Stanley Kubrick;1h 26m;
+62;True Grit;2010;85;274;western, drama;English;Joel Coen, Ethan Coen;1h 50m;
+63;X-Men: Days of Future Past;2014;91;330;fantasy, action, adventure, sci fi;English;Bryan Singer;2h 11m;X-Men
+64;The Bridge on the River Kwai;1957;93;60;drama, war;English;David Lean;2h 41m;
+65;Badlands;1973;90;59;crime, drama;English;Terrence Malick;1h 35m;
+66;Gun Crazy;1950;84;40;crime, drama;English;Joseph H. Lewis;1h 27m;
+67;All Is Lost;2013;63;240;mystery and thriller, drama, adventure;English;J.C. Chandor;1h 45m;
+68;The LEGO Batman Movie;2017;80;314;comedy, animation, action, kids and family, adventure;English;Chris McKay;1h 46m;Batman
+69;The Princess Bride;1987;94;77;kids and family, comedy, adventure;English;Rob Reiner;1h 38m;
+70;Looper;2012;82;268;mystery and thriller, sci fi, action;English;Rian Johnson;1h 59m;
+71;Chicken Run;2000;65;172;kids and family, comedy, adventure, animation;English;Peter Lord, Nick Park;1h 25m;
+72;Stalker;1979;93;41;sci fi, adventure;Russian;Andrei Tarkovsky;2h 43m;
+73;Casino Royale;2006;89;259;mystery and thriller, adventure, action;English;Martin Campbell;2h 24m;James Bond 007
+74;Guardians of the Galaxy Vol. 2;2017;87;417;comedy, fantasy, sci fi, action, adventure;English;James Gunn;2h 15m;Marvel Cinematic Universe
+75;The Peanut Butter Falcon;2019;96;217;comedy, drama, adventure;English;Tyler Nilson, Michael Schwartz;1h 36m;
+76;No Country for Old Men;2007;86;288;mystery and thriller, drama, crime;English;Joel Coen, Ethan Coen;2h 2m;
+77;Dawn of the Planet of the Apes;2014;88;315;action, adventure, sci fi;English;Matt Reeves;2h 10m;Planet of the Apes
+78;Captain Marvel;2019;45;535;sci fi, adventure, action, fantasy;English;Anna Boden, Ryan Fleck;2h 4m;Marvel Cinematic Universe
+79;Onward;2020;95;333;adventure, animation, fantasy, comedy, kids and family;English;Dan Scanlon;1h 43m;Pixar
+80;Sicario;2015;85;278;drama, mystery and thriller, crime;English;Denis Villeneuve;2h 1m;
+81;Ghostbusters;1984;88;73;comedy, adventure, fantasy;English;Ivan Reitman;1h 47m;Ghostbusters
+82;Ran;1985;95;89;drama, history;Japanese;Akira Kurosawa;2h 40m;
+83;A Fistful of Dollars;1964;91;51;western;Italian;Sergio Leone;1h 36m;
+84;Henry V;1989;89;40;drama, history;English;Kenneth Branagh;2h 17m;
+85;The Lord of the Rings: The Two Towers;2002;95;255;adventure, fantasy;English;Peter Jackson;2h 59m;Lord of the Rings
+86;Captain America: The Winter Soldier;2014;92;305;adventure, action, fantasy;English;Anthony Russo, Joe Russo;2h 15m;Marvel Cinematic Universe
+87;Back to the Future;1985;94;84;sci fi, comedy, adventure, fantasy;English;Robert Zemeckis;1h 56m;
+88;Assault on Precinct 13;1976;80;43;action;English;John Carpenter;1h 31m;
+89;The Searchers;1956;88;48;western;English;John Ford;1h 59m;
+90;Deadpool 2;2018;85;416;comedy, adventure, action, fantasy;English;David Leitch;2h;X-Men
+91;Aguirre: The Wrath of God;1972;91;50;adventure;English;Werner Herzog;1h 34m;
+92;Crouching Tiger, Hidden Dragon;2000;86;158;sports and fitness, action, adventure;Chinese;Ang Lee;2h;
+93;The Fugitive;1993;89;78;mystery and thriller, drama, crime, action;English;Andrew Davis;2h 7m;
+94;Apollo 13;1995;87;92;drama, history;English;Ron Howard;2h 20m;
+95;The Lion King;1994;93;130;kids and family, animation, adventure, musical;English;Roger Allers, Rob Minkoff;1h 27m;
+96;Bullitt;1968;85;41;crime, drama;English;Peter Yates;1h 53m;
+97;Catch Me if You Can;2002;89;202;crime, drama, comedy;English;Steven Spielberg;2h 20m;
+98;Annihilation;2018;66;319;mystery and thriller, sci fi, adventure;English;Alex Garland;1h 55m;
